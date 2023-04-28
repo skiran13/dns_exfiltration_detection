@@ -1,6 +1,6 @@
 # DNS Exfiltration Detection
 In this project, NSL-KDD dataset is used for the task of Intrusion and DNS exfiltration detection. This project uses a unique methodology to produce good results that is robust and identifies the intrusion without any issues.
-More details about the project is describved in this document.
+More details about the project is describved in this [document](./Report.pdf).
 For preprocessing the data the following steps are implemented.
 
 ![preprocess](./img/preprocessing.png)
